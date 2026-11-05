@@ -2,7 +2,11 @@
 
 I am a second year computer science student @TUDublin 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!--
 **amelka800/amelka800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
