@@ -4,9 +4,7 @@
   I am a second-year Computer Science student @ TU Dublin 🎓<br>
   I build random projects and paint in my spare time ✨
 </p>
-
----
-
+<br>
 ## 🛠️ Skills
 
 <p>
@@ -14,6 +12,7 @@
     <img src="https://skillicons.dev/icons?i=git,c,py,java,vim,html,css" />
   </a>
 </p>
+<br>
 
 ## 🚀 Projects
 
@@ -21,6 +20,7 @@
 |---|---|---|
 | [**Project One**](https://github.com/amelka800/Mini-Photobooth) | Mini Photobooth using a Raspberry Pi | `Python` |
 | [**Project Two**](https://github.com/amelka800/amelka800.github.io) | Business website | `HTML` |  `CSS` | `HTML`
+<br>
 
 ## 🌱 Currently
 
@@ -28,6 +28,7 @@
 - 🔭 Working on: ...
 - 🧠 Learning: Java
 - 💬 Ask me about: my dog Beast!
+<br>
 
 ## 📫 Contact Me
 
@@ -40,6 +41,7 @@
   &nbsp;
   <a href="https://amelia-codes-folio.base44.app/"><img src="https://skillicons.dev/icons?i=githubactions" height="40" /></a>
 </p>
+<br>
 
 <details>
   
