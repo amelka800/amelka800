@@ -1,5 +1,6 @@
 ## Hi there 👋 my name is Amelia
-# I am a second year computer science student 
+
+I am a second year computer science student @TUDublin 
 
 
 <!--
