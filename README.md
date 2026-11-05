@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 my name is Amelia
+# I am a second year computer science student 
+
 
 <!--
 **amelka800/amelka800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
