@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Amelia
 
-I am a second year computer science student @TUDublin 
+I am a second year computer science student @TUDublin pursuing a bachelors degree, in my spare time I like to work on random projects ✨
 
 <p align="center">
   <a href="https://skillicons.dev">
