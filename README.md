@@ -40,7 +40,6 @@
   &nbsp;
   <a href="https://www.instagram.com/amelia_stro/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   &nbsp;
-  <a href="https://amelia-codes-folio.base44.app/"><img src="https://skillicons.dev/icons?i=githubactions" height="40" /></a>
 </p>
 <br>
 
