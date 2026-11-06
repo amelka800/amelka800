@@ -46,7 +46,7 @@
 
 <details>
   
-<summary align="center">🎨 <b>My dog, in ASCII</b> (click to expand)</summary>
+<summary align="center">🎨 <b>My dog, in pixels!</b> (click to expand)</summary>
 
 <pre align="center">
 　　　　　⬛⬛⬛⬛　　　　　　　　　⬛⬛⬛⬛　　　　　
