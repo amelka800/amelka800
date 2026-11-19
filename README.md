@@ -21,6 +21,7 @@
 |---|---|---|
 | [**Project One**](https://github.com/amelka800/Mini-Photobooth) | Mini Photobooth using a Raspberry Pi | `Python` |
 | [**Project Two**](https://github.com/amelka800/amelka800.github.io) | Business website | `HTML` |  `CSS` | `HTML`
+| [**Project Three**](https://github.com/amelka800/Warehouse) | Warehouse System | `C`
 <br>
 
 ## 🌱 Currently
